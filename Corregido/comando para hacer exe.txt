@@ -1,0 +1,1 @@
+pyinstaller --onefile --add-data "Datos/*:Datos" --noconsole main.py

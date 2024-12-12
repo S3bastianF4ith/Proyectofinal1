@@ -1,0 +1,3 @@
+Admin:faith:retrasado
+Tianguis:sos:troll
+Trabajador:reaper:muere
